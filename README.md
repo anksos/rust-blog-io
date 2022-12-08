@@ -1,5 +1,7 @@
 # Rust blog-io dead:beef::1 
 
+Based on Awesome blog and fasterthanlime.
+
 ## dead:beef::1 blog structure
 
 ```rust
