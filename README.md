@@ -32,3 +32,10 @@
 - README.md
 
 ```
+
+## Run the blog
+- Install rust on your Operating System [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
+- Clone the Repo
+- `cd blog-io`
+- `cargo run`
+- The blog runs on localhost:8080
