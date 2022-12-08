@@ -1,0 +1,18 @@
+debug/
+target/ 
+
+# remove cargo lock
+Cargo.lock
+
+# backups from rustfmt
+**.*.rs.bk
+
+# msvc windows builds of rustc
+*.pdb 
+
+# IDE files
+.vscode/
+
+# node_modules / npm
+node_modules/
+package-lock.json
